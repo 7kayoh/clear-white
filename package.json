@@ -1,0 +1,21 @@
+{
+  "name": "Clear-White",
+  "publisher": "nanakon",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "clear-white",
+        "UiTheme": "vs-light",
+        "path": "./White-color.theme.json"
+      }
+    ]
+  },
+  "displayName": "Clear White"
+}
