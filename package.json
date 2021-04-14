@@ -15,7 +15,7 @@
       {
         "label": "clear-white",
         "UiTheme": "vs-light",
-        "path": "./White-color.theme.json"
+        "path": "./themes/White-color.theme.json"
       }
     ]
   },
